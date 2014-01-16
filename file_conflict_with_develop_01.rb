@@ -1,4 +1,4 @@
 def test
-		nums = 2
-		puts nums
+		num = 5
+		put nums
 end
